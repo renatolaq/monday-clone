@@ -1,0 +1,12 @@
+para se montar o servidor 
+
+npm i express cors axios  dotenv
+
+npm i nodemon
+
+modify package.json 
+"start:frontend": "react-scripts start",
+"start:backend": "nodemon server.js",
+
+
+command npm run start:frontend  or npm run start:backend
